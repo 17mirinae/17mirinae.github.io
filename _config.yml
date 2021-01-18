@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MinGW
+title: 한탄하는 사람
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://17mirinae.github.io"
@@ -23,7 +23,7 @@ paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://17mirinae.github.io"
-user: "Min Ji Chung"
+user: "MinGW"
 user_email: "hargeon@naver.com"
 contact_url: "https://goo.gl/tVljbV"
 # google_tracking_id: ""
