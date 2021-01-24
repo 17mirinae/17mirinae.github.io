@@ -41,16 +41,11 @@ AAAAAAA 를 넣어서 Register 버튼을 눌렀는데 아무런 메시지가 안
 위에 저 다섯 개의 문자들을 EDX 로 넣어주는 것을 보고 이걸 조합하여 입력하면 AuthKey 를 얻을 수 있을 것 같아서 PUSH 되는 순서대로 문자를 조합해보았다.
 
 ​
-EBX + 310 = 2V
-
-EBX + 318 = B6
-
-EBX + 31C = H1
-
-EBX + 314 = XS
-
-EBX + 320 = 0F
-
+EBX + 310 = 2V  
+EBX + 318 = B6  
+EBX + 31C = H1  
+EBX + 314 = XS  
+EBX + 320 = 0F  
 ==> 2VB6H1XS0F
 
 
