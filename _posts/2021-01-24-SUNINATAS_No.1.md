@@ -14,7 +14,7 @@ tags: SUNINATAS
 
 그냥 눈으로만 분석하기엔 내 기억력이 받쳐주지 않으니 위 코드에 주석을 넣어보도록 하자.
 
-{% hightlight ruby %}
+{% highlight ruby %}
 result = Replace(str,"a","aad") // str 의 a 를 aad 로 바꾼다.
 result = Replace(result,"i","in") // result 의 i 를 in 으로 바꾼다.
 {% endhighlight %}
